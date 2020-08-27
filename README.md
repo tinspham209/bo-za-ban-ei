@@ -1,14 +1,3 @@
-Bo tay za ban ei
-cảnh báo khi đưa tay lên mặt
-tensorflow-models/knn-classifier, @tensorflow-models/mobilenet để trainning 
-howler để bật audio
-mycv/f8-notification để hiện thông báo 
-Sử dụng ReactJS để làm UI
-<img src="https://i.imgur.com/DAviqwF.png" />
-<img src="https://i.imgur.com/bapf8EI.png" />
-
-# bo-za-ban-ei
-
 # Mini Project: Warning when put the hand on your face
 
 ## Date: 21 - Mar - 2020
